@@ -1,7 +1,8 @@
 import requests
 url = 'http://www.ado.com.mx/ado2/WSCCPA/BOLWS/BoletosElectronico'
 '''
-This prefix variable can be modified to a smaller value. i.e. 200020000, 200010000, etc
+You can modify the prefix variable to a smaller or larger value,
+this value is used only for reference and because it works.
 '''
 prefix = '200021956'
 
